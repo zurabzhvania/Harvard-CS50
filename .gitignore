@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Object files
+*.o
+
+# Executables
+credit
+scrabble
+substitution
+plurality
