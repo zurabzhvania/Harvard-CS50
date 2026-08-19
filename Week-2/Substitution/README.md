@@ -1,0 +1,1 @@
+I am currently taking Harvard University's CS50: Introduction to Computer Science. This repository contains my solution to the Substitution problem set. After completing the assignment, I refactored the program to remove the dependency on the CS50 library and use only the C Standard Library.
