@@ -5,7 +5,7 @@
 *.o
 
 # Executables
-credit
-scrabble
-substitution
-plurality
+/credit
+/scrabble
+/substitution
+/plurality
